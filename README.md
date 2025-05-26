@@ -1,1 +1,3 @@
 # ProgPoePart2
+
+My chatbot includes keyword recognition to identify cybersecurity topics and provides randomized tips based on common themes. It uses sentiment-based replies to respond appropriately when the user seems worried or confused. The bot remembers the user's name and favorite topic to personalize future interactions. Conversations are structured around topic-based flows, making the dialogue more relevant. Additionally, the chatbot features an audio greeting and ASCII art introduction for a welcoming start. A console-based menu system guides users through options, and there is clear exit handling to end sessions smoothly. Overall, the interaction is personalized and informative using stored data.
